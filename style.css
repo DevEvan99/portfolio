@@ -436,6 +436,7 @@ footer p {
 
 
 .text-animation{
+  color: rgb(85, 85, 85);
   font-size: 1.75rem;
   margin-bottom: 1rem;
   min-width: 280px;
